@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This script prints the absolute path of the current working dir: $(pwd)"
+echo "$(pwd)"
