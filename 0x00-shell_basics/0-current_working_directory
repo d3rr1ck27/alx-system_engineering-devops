@@ -1,2 +1,2 @@
 #!/bin/bash
-abs_path=$(pwd)
+echo "This script prints the absolute path of the current working dir: $(pwd)"
