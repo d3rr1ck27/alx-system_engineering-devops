@@ -1,0 +1,3 @@
+#!/bin/bash
+abs_path=$(pwd)
+echo "This is the current absolute path of the curent working directory: $abs_path"
