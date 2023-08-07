@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq -u | awk '{print}'
+cat 13-unique | sort | uniq -u | awk '{print}'
